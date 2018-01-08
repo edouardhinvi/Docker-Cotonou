@@ -1,4 +1,6 @@
-| #      | Date                   | Subject                           | Venue    | Time          |
+# Docker Cotonou MeetUp Group - Calendar of Year 2018
+
+| #      | Date                   | Themes                            | Venue    | Time          |
 | ------ |:----------------------:| ---------------------------------:| --------:| -------------:|
 | 1      | January 27, 2018       | À la découverte de Docker         | Nautilus | 09:30 - 11:00 |
 | 2      | February 24, 2018      |                                   |          |               |
